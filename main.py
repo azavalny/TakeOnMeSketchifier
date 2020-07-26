@@ -54,5 +54,5 @@ def main():
 while True:
     main()
     ask = input("Would you like to process another image/video/webcam capture? y/n: ")
-    if input.lower() in["n","no"]:
+    if ask.lower() in["n","no"]:
         break
