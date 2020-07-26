@@ -4,6 +4,6 @@
 
 **Using Object Oriented Programming, my ImageSketcher object sketches any image into a version that looks draw. And by "Sketching" I mean passing through many filters.**
 
-**Features:
-1.) Sketching any image file and then resizing that image file
-2). Sketching a live webcam
+**Features:**
+* 1.) Sketching any image file and then resizing that image file
+* 2). Sketching a live webcam
