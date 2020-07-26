@@ -7,3 +7,6 @@
 **Features:**
 * 1.) Sketching any image file and then resizing that image file
 * 2). Sketching a live webcam
+
+
+*GO TO THE ISSUES TAB FOR EXAMPLE PICTURES*
