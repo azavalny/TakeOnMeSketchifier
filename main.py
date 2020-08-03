@@ -1,8 +1,6 @@
 import cv2
 from ImageSketcher import ImageSketcher
 import numpy as np
-import moviepy as mp
-
 
 def main():
     print("\nWelcome to the Take-On-Me Multi-Input-Converter\nYou can choose as your input to be either a:")
