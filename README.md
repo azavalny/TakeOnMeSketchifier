@@ -1,4 +1,4 @@
-# TakeOnMeSketchifier
+# Take On Me Sketchifier
 
 **Written only using 130 lines of code, this software allows you to turn any image or live webcam feed into a sketched version similar to style shown in Aha's Take On Me Music video.**
 
