@@ -1,12 +1,7 @@
-# Take On Me Sketchifier(Old)
+# Take On Me Sketchifier
 
-*Note: I am currently working on a better version of this idea, which can be found here: https://github.com/thelazyaz/TakeOnMeSketchifier2.0
+An ImageSketcher object is one that sketches any image into a version that looks draw. And by "Sketching" I mean passing through many filters. The resulting image is one that highlights the outlines of an image to appear like it's inked
 
-________
-
-**Written only using 130 lines of code, this software allows you to turn any image or live webcam feed into a sketched version similar to style shown in Aha's Take On Me Music video.**
-
-**Using Object Oriented Programming, my ImageSketcher object sketches any image into a version that looks draw. And by "Sketching" I mean passing through many filters.**
 
 **Features:**
 * Sketching any image file and then resizing that image file
