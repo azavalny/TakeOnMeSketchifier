@@ -11,6 +11,12 @@ An ImageSketcher object is one that sketches any image into a version that looks
 
 **Examples:**
 
+*Before*
+![](Alex.jpg)
+
+*After:*
+
+![](Alex_sketched.jpg)
 
 *Before:*
 ![](Reeves.jpg)
