@@ -8,6 +8,9 @@ An ImageSketcher object is one that sketches any image into a version that looks
 * Sketching a live webcam
 * Sketcher Object which can be implemented and changed for various use cases (ex. for a video file)
 
+**Further Development:**
+* Deal with sketching low resolution images/video feeds
+* Use a style-transfer GAN Neural Network
 
 **Examples:**
 
