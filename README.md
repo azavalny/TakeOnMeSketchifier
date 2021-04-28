@@ -1,6 +1,6 @@
 # Take On Me Sketchifier
 
-An ImageSketcher object is one that sketches any image into a version that looks draw. And by "Sketching" I mean passing through many filters. The resulting image is one that highlights the outlines of an image to appear like it's inked
+An ImageSketcher object is one that sketches any image into a version that looks hand drawn with ink or shaded pencil. And by "Sketching" I mean passing through many filters. The resulting image is one that highlights the outlines of an image to appear like it's inked
 
 
 **Features:**
